@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: mocha-theme
+description: "A pleasant Jekyll theme for Coffee/Mocha lovers."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
