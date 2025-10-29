@@ -1,10 +1,14 @@
-# Tonic Starter
+# mocha-theme
 
-A sample [Jekyll](https://jekyllrb.com) theme designed to be a starting point for all [Tonic](https://github.com/hackclub/tonic) submissions.
+A cool [Jekyll](https://jekyllrb.com) theme designed for people who like the aesthetic or colors of *Mocha/Coffee.*
 
-This template is intentionally left incomplete; users should play through Tonic to learn how to make a full-featured theme.
+# Prerequisites
+1. [Ruby](https://www.ruby-lang.org/en/) Version 2.70 or higher.
+2  RubyGems
+3. GCC and Make
 
 # Usage
-1. At the top of this page, select **Use this template** &gt; **Create a new repository** to clone the template to your account.
-2. Create a codespace from the created repository (for beginners) or use `git clone` (for advanced users) to start pushing commits.
-3. Run `gem install jekyll`, then `jekyll serve` to see the template in action.
+1. `git clone https://github.com/Snowflake6413/a-cool-theme`
+2. Run `gem install jekyll`, then `jekyll serve` to see the cool theme!
+
+Made with ❤️. Check out [Tonic](https://tonic.hackclub.com/) by [Hack Club](http://hackclub.com/) to learn how to make your own theme!
